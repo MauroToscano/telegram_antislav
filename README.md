@@ -1,3 +1,3 @@
 # Anti Slav Spam Bot
 
-Bot that bans anyone who speaks cyrillic in a chat
+Bot that bans anyone who uses cyrillic in a chat
